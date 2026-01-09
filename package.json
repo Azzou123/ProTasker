@@ -1,0 +1,25 @@
+{
+  "license": "0BSD",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~54.0.31",
+    "expo-status-bar": "~3.0.9",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "expo-device": "~5.9.3",
+    "@expo/vector-icons": "^15.0.3",
+    "expo-notifications": "~0.27.6",
+    "react-native-paper": "4.9.2",
+    "expo-font": "~11.10.3",
+    "@expo-google-fonts/cairo": "*",
+    "@expo-google-fonts/poppins": "*",
+    "expo-localization": "~14.8.3"
+  },
+  "private": true
+}
